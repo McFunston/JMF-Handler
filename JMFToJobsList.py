@@ -13,12 +13,12 @@ def ListJobs(JMF, CSV):
     Queue = root.findall('{http://www.CIP4.org/JDFSchema_1_1}Response/{http://www.CIP4.org/JDFSchema_1_1}Queue/{http://www.CIP4.org/JDFSchema_1_1}QueueEntry')
     
     with open(CSV, 'w', newline='') as csvfile:
-        fn = Queue[0].keys()
-        writer = csv.DictWriter(csvfile, fieldnames=Queue[0].keys())
+        all_keys = set().union(*(d.keys() for d in Queue)) #get all possible keys
+        writer = csv.DictWriter(csvfile, fieldnames=all_keys)
         writer.writeheader()
         for QueueEntry in Queue:
             writer.writerow(QueueEntry.attrib)
-            print(QueueEntry.attrib['QueueEntryID'])
+
 
 
     print('test')

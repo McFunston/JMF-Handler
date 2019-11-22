@@ -1,184 +1,223 @@
-Activation,DescriptiveName,JobID,QueueEntryID,Status,StatusDetails,SubmissionTime
-Active,L2811 GGLS CMC,L2811 GGLS CMC,L2811 GGLS CMC,Running,Active,2014-09-18T18:46:52-04:00
-Active,L2440 CBSA Text,L2440 CBSA Text,L2440 CBSA Text,Running,Active,2016-03-25T10:15:09-04:00
-Active,L2733 PWGSC Covers,L2733 PWGSC Covers,L2733 PWGSC Covers,Running,Active,2016-09-29T11:32:35-04:00
-Active,L2493 DLI,L2493 DLI,L2493 DLI,Running,Active,2016-11-12T10:47:32-05:00
-Active,L2717 Text,L2717 Text,L2717 Text,Running,Active,2016-12-12T11:34:05-05:00
-Active,L2717 Tabs,L2717 Tabs,L2717 Tabs,Running,Active,2016-12-12T12:06:49-05:00
-Active,L2717 Checklist,L2717 Checklist,L2717 Checklist,Running,Active,2016-12-12T12:15:11-05:00
-Active,L2717 Cover,L2717 Cover,L2717 Cover,Running,Active,2016-12-12T14:02:23-05:00
-Active,L2530 English Text,L2530 English Text,L2530 English Text,Running,Active,2017-03-14T15:21:36-04:00
-Active,L2530 French Text,L2530 French Text,L2530 French Text,Running,Active,2017-03-14T15:22:20-04:00
-Active,L2530 Covers,L2530 Covers,L2530 Covers,Running,Active,2017-03-14T15:28:32-04:00
-Active,L0908 CDIC LH,L0908 CDIC LH,L0908 CDIC LH,Running,Active,2017-04-27T13:10:59-04:00
-Active,L0910 CDIC Cheque,L0910 CDIC Cheque,L0910 CDIC Cheque,Running,Active,2017-04-28T20:20:13-04:00
-Active,L2775 Barrhaven Opto,L2775 Barrhaven Opto,L2775 Barrhaven Opto,Running,Active,2017-06-05T13:15:10-04:00
-Active,L2719 GGLS Lowes,L2719 GGLS Lowes,L2719 GGLS Lowes,Running,Active,2017-06-07T10:46:08-04:00
-Active,L2778 Ross Video,L2778 Ross Video,L2778 Ross Video,Running,Active,2017-06-19T18:10:13-04:00
-Active,L2715 GGLS Lowes,L2715 GGLS Lowes,L2715 GGLS Lowes,Running,Active,2017-07-11T18:20:12-04:00
-Active,L2792 Bank Can,L2792 Bank Can,L2792 Bank Can,Running,Active,2017-09-20T09:29:07-04:00
-Active,L2772 GGLS Lowes,L2772 GGLS Lowes,L2772 GGLS Lowes,Running,Active,2017-09-21T16:21:54-04:00
-Active,L2603 Ott Cit Farm Boy,L2603 Ott Cit Farm Boy,L2603 Ott Cit Farm Boy,Running,Active,2017-10-31T19:05:16-04:00
-Active,L2603 perfs plates,L2603 perfs plates,L2603 perfs plates,Running,Active,2017-10-31T19:31:31-04:00
-Active,test Todd,test Todd,test Todd,Running,Active,2017-12-29T13:43:24-05:00
-Active,test,test,test,Running,Active,2018-02-01T11:38:58-05:00
-Active,claude test image,claude test image,claude test image,Running,Active,2018-02-20T09:34:36-05:00
-Active,todd test,todd test,todd test,Running,Active,2018-02-21T12:25:36-05:00
-Active,L2645 Oueis,L2645 Oueis,L2645 Oueis,Running,Active,2018-02-27T08:39:53-05:00
-Active,L2804 CATSA,L2804 CATSA,L2804 CATSA,Running,Active,2018-05-09T11:56:54-04:00
-Active,manual creep K1264,manual creep K1264,manual creep K1264,Running,Modified,2018-05-09T15:15:40-04:00
-Active,test trap,test trap,test trap,Running,Active,2018-06-26T09:09:16-04:00
-Active,K1981 SSB 85names,K1981 SSB 85names,K1981 SSB 85names,Running,Active,2018-07-30T14:33:41-04:00
-Active,test spot,test spot,test spot,Running,Active,2018-08-01T09:19:44-04:00
-Active,K2057 Test OP,K2057 Test OP,K2057 Test OP,Running,Active,2018-08-15T17:04:53-04:00
-Active,Preflight_Test,Preflight_Test,Preflight_Test,Running,Active,2018-08-23T15:14:27-04:00
-Active,K OP,K OP,K OP,Running,Active,2018-10-12T09:57:52-04:00
-Active,L2703 OttHosp cover,L2703 OttHosp cover,L2703 OttHosp cover,Running,Active,2018-10-23T11:51:30-04:00
-Active,L2703 OttHosp text,L2703 OttHosp text,L2703 OttHosp text,Running,Active,2018-10-23T11:51:30-04:00
-Active,Heidi 1 blank bump,Heidi 1 blank bump,Heidi 1 blank bump,Running,Active,2018-11-01T10:54:38-04:00
-Active,L2611 Anishinabe,L2611 Anishinabe,L2611 Anishinabe,Running,Active,2018-11-09T10:45:06-05:00
-Active,L2746 DLI,L2746 DLI,L2746 DLI,Running,Active,2018-11-13T15:13:08-05:00
-Active,L2817 IPM,L2817 IPM,L2817 IPM,Running,Active,2018-11-14T08:59:29-05:00
-Active,L2745 GGLS,L2745 GGLS,L2745 GGLS,Running,Active,2018-11-14T18:52:22-05:00
-Active,L2785 DLI,L2785 DLI,L2785 DLI,Running,Active,2018-11-16T20:34:04-05:00
-Active,L2743 Repro,L2743 Repro,L2743 Repro,Running,Active,2018-11-20T11:29:00-05:00
-Active,L2744 GPS,L2744 GPS,L2744 GPS,Running,Active,2018-11-26T13:16:52-05:00
-Active,K2972 GPS,L2972 GPS,L2972 GPS,Running,Active,2018-11-26T13:16:52-05:00
-Active,L2764 GGLS STM covers,L2764 GGLS STM covers,L2764 GGLS STM covers,Running,Active,2018-12-20T19:22:20-05:00
-Active,L2764 GGLS STM eng text,L2764 GGLS STM eng text,L2764 GGLS STM eng text,Running,Active,2018-12-20T19:56:50-05:00
-Active,L2764 GGLS STM fre text,L2764 GGLS STM fre text,L2764 GGLS STM fre text,Running,Active,2018-12-20T20:16:58-05:00
-Active,INK_USAGE,INK_USAGE,INK_USAGE,Running,Active,2019-01-03T14:31:37-05:00
-Active,Impo Test,Impo Test,Impo Test,Running,Active,2019-01-03T16:51:53-05:00
-Active,2.0_test,2.0_test,2.0_test,Running,Active,2019-01-08T14:22:44-05:00
-Active,L2803 CanScientific,L2803 CanScientific,L2803 CanScientific,Running,Active,2019-01-23T12:43:42-05:00
-Active,L2587 Alphabet Covers,L2587 Alphabet Covers,L2587 Alphabet Covers,Running,Active,2019-01-31T20:55:57-05:00
-Active,L2587 Alphabet Text,L2587 Alphabet Text,L2587 Alphabet Text,Running,Active,2019-02-12T11:11:46-05:00
-Active,L2236 GGLS Text,L2236 GGLS Text,L2236 GGLS Text,Running,Active,2019-02-21T15:34:15-05:00
-Active,Press Test May 6-2019 Synthetic,Press Test May 6-2019 Synthetic,Press Test May 6-2019 Synthetic,Running,Active,2019-02-27T10:27:52-05:00
-Active,test fonts,test fonts,test fonts,Running,Active,2019-03-19T12:49:17-04:00
-Active,L0783 GGLS IHSA,L0783 GGLS IHSA,L0783 GGLS IHSA,Running,Active,2019-04-05T08:45:10-04:00
-Active,L2716 GGLS Lowes,L2716 GGLS Lowes,L2716 GGLS Lowes,Running,Active,2019-05-16T09:21:00-04:00
-Active,L2755 SOG,L2755 SOG,L2755 SOG,Running,Active,2019-05-27T14:42:40-04:00
-Active,test 320 ink,test 320 ink,test 320 ink,Running,Active,2019-06-05T14:25:44-04:00
-Active,4c,4c,4c,Running,Active,2019-06-06T12:05:03-04:00
-Active,cover-test,cover-test,cover-test,Running,Active,2019-06-10T16:23:37-04:00
-Active,PREFLIGHT,PREFLIGHT,PREFLIGHT,Running,Active,2019-06-13T12:36:42-04:00
-Active,test marks,test marks,test marks,Running,Active,2019-07-09T11:37:04-04:00
-Active,L2740 DLI-STO,L2740 DLI-STO,L2740 DLI-STO,Running,Active,2019-07-24T11:51:56-04:00
-Active,L1923 TIP,L1923 TIP,L1923 TIP,Running,Active,2019-08-16T11:46:41-04:00
-Active,test 2 spot,test 2 spot,test 2 spot,Running,Active,2019-08-26T15:37:50-04:00
-Active,L2022 Xerox,L2022 Xerox,L2022 Xerox,Running,Active,2019-08-27T14:35:35-04:00
-Active,L2717 Pocket Card,L2717 Pocket Card,L2717 Pocket Card,Running,Active,2019-08-30T16:20:34-04:00
-Active,L2081 BMR Carleton U,L2081 BMR Carleton U,L2081 BMR Carleton U,Running,Active,2019-09-04T12:48:07-04:00
-Active,L2202 V1 Text,L2202 V1 Text,L2202 V1 Text,Running,Active,2019-09-13T16:49:52-04:00
-Active,L2202 V2 Text Goldenrod,L2202 V2 Text Goldenrod,L2202 V2 Text Goldenrod,Running,Active,2019-09-13T16:51:57-04:00
-Active,L2202 V2 Text Blue,L2202 V2 Text Blue,L2202 V2 Text Blue,Running,Active,2019-09-13T17:45:53-04:00
-Active,L2202 Tip Ons Parts 4-6,L2202 Tip Ons Parts 4-6,L2202 Tip Ons Parts 4-6,Running,Active,2019-09-13T18:30:29-04:00
-Active,L2736 Conf Bd kf,L2736 Conf Bd kf,L2736 Conf Bd kf,Running,Active,2019-09-20T17:43:18-04:00
-Active,L2339 Vol 2 Text,L2339 Vol 2 Text,L2339 Vol 2 Text,Running,Active,2019-09-27T18:11:08-04:00
-Active,L2335 Vol 1 Text,L2335 Vol 1 Text,L2335 Vol 1 Text,Running,Active,2019-09-27T18:32:56-04:00
-Active,L2343 Vol 3 Text,L2343 Vol 3 Text,L2343 Vol 3 Text,Running,Active,2019-09-27T19:02:57-04:00
-Active,L2346 Pillar5,L2346 Pillar5,L2346 Pillar5,Running,Active,2019-09-30T14:07:21-04:00
-Active,L2365 Queens,L2365 Queens,L2365 Queens,Running,Active,2019-10-01T10:55:02-04:00
-Active,L2358 Vol 7 Text,L2358 Vol 7 Text,L2358 Vol 7 Text,Running,Active,2019-10-01T19:37:14-04:00
-Active,L2349 Vol 4 Text,L2349 Vol 4 Text,L2349 Vol 4 Text,Running,Active,2019-10-02T08:45:12-04:00
-Active,L2354 Fisheries,L2354 Fisheries,L2354 Fisheries,Running,Active,2019-10-02T09:15:10-04:00
-Active,L2355 Vol 6 Text,L2355 Vol 6 Text,L2355 Vol 6 Text,Running,Active,2019-10-02T12:36:15-04:00
-Active,L2402 Text,L2402 Text,L2402 Text,Running,Active,2019-10-03T16:13:21-04:00
-Active,L2459 Ideal Roofing,L2459 Ideal Roofing,L2459 Ideal Roofing,Running,Active,2019-10-10T13:53:21-04:00
-Active,L2467 Tabs,L2467 Tabs,L2467 Tabs,Running,Active,2019-10-11T17:41:16-04:00
-Active,L2467 Cover,L2467 Cover,L2467 Cover,Running,Active,2019-10-11T18:30:02-04:00
-Active,L2467 Text,L2467 Text,L2467 Text,Running,Active,2019-10-11T18:54:03-04:00
-Active,L2525 Cover,L2525 Cover,L2525 Cover,Running,Active,2019-10-18T15:15:24-04:00
-Active,L2525 Text,L2525 Text,L2525 Text,Running,Active,2019-10-18T15:21:09-04:00
-Active,L2525 Poster,L2525 Poster,L2525 Poster,Running,Active,2019-10-18T17:34:22-04:00
-Active,L2357 Cdn Blood,L2357 Cdn Blood,L2357 Cdn Blood,Running,Active,2019-10-22T11:39:51-04:00
-Active,todd test combo,todd test combo,todd test combo,Running,Active,2019-10-22T13:54:29-04:00
-Active,L2725 Alphabet,L2725 Alphabet,L2725 Alphabet,Running,Active,2019-10-23T17:36:02-04:00
-Active,test cmyk line weight,test cmyk line weight,test cmyk line weight,Running,Active,2019-10-24T09:03:36-04:00
-Active,L2581 GGLS STM,L2581 GGLS STM,L2581 GGLS STM,Running,Active,2019-10-24T09:29:13-04:00
-Active,L2568 TF Targets,L2568 TF Targets,L2568 TF Targets,Running,Active,2019-10-25T09:48:20-04:00
-Active,L2602 GGLS IHSA bc,L2602 GGLS IHSA bc,L2602 GGLS IHSA bc,Running,Active,2019-10-25T12:00:08-04:00
-Active,L2610 Falun Dafa,L2610 Falun Dafa,L2610 Falun Dafa,Running,Active,2019-10-25T13:54:32-04:00
-Active,L2598 GDC,L2598 GDC,L2598 GDC,Running,Active,2019-10-26T10:26:16-04:00
-Active,L2624 IPM,L2624 IPM,L2624 IPM,Running,Active,2019-10-28T17:22:50-04:00
-Active,test grey line weight,test grey line weight,test grey line weight,Running,Active,2019-10-29T09:23:35-04:00
-Active,L2628 Queens,L2628 Queens,L2628 Queens,Running,Active,2019-10-29T09:57:17-04:00
-Active,L2633 GGLS - KF,L2633 GGLS - KF,L2633 GGLS - KF,Running,Active,2019-10-29T10:16:27-04:00
-Active,L2636 CSE,L2636 CSE,L2636 CSE,Running,Active,2019-10-29T13:09:16-04:00
-Active,L2634 LACan cover,L2634 LACan cover,L2634 LACan cover,Running,Active,2019-10-29T14:16:40-04:00
-Active,L2634 LACan text,L2634 LACan text,L2634 LACan text,Running,Active,2019-10-29T14:18:26-04:00
-Active,L2651 DLI-CWF,L2651 DLI-CWF,L2651 DLI-CWF,Running,Active,2019-10-30T13:11:01-04:00
-Active,L2639 Ottawa Citizen,L2639 Ottawa Citizen,L2639 Ottawa Citizen,Running,Active,2019-10-30T18:15:19-04:00
-Active,L2647 GRepro - Fall,L2647 GRepro - Fall,L2647 GRepro - Fall,Running,Active,2019-10-31T09:16:30-04:00
-Active,L2661 Queens,L2661 Queens,L2661 Queens,Running,Active,2019-10-31T11:06:10-04:00
-Active,L2654 cover,L2654 cover,L2654 cover,Running,Active,2019-10-31T11:43:45-04:00
-Active,L2654 text,L2654 text,L2654 text,Running,Active,2019-10-31T11:44:21-04:00
-Active,L2663 IPM,L2663 IPM,L2663 IPM,Running,Active,2019-10-31T14:12:12-04:00
-Active,L2668 Repro,L2668 Repro,L2668 Repro,Running,Active,2019-11-01T08:25:39-04:00
-Active,L2674 Covers,L2674 Covers,L2674 Covers,Running,Active,2019-11-01T13:40:23-04:00
-Active,L2674 Briefs,L2674 Briefs,L2674 Briefs,Running,Active,2019-11-01T13:49:28-04:00
-Active,L2674 French Text,L2674 French Text,L2674 French Text,Running,Active,2019-11-01T13:56:56-04:00
-Active,L2674 English Text,L2674 English Text,L2674 English Text,Running,Active,2019-11-01T14:09:01-04:00
-Active,L2672 Item 1,L2672 Item 1,L2672 Item 1,Running,Active,2019-11-01T15:58:41-04:00
-Active,L2672 Item 2,L2672 Item 2,L2672 Item 2,Running,Active,2019-11-01T16:03:22-04:00
-Active,L2679 Health Canada,L2679 Health Canada,L2679 Health Canada,Running,Active,2019-11-04T08:35:13-05:00
-Active,L2693 Wow Tech,L2693 Wow Tech,L2693 Wow Tech,Running,Active,2019-11-04T13:10:01-05:00
-Active,cmyk uncoated,cmyk uncoated,cmyk uncoated,Running,Active,2019-11-05T09:45:57-05:00
-Active,L2682 NGCOA,L2682 NGCOA,L2682 NGCOA,Running,Active,2019-11-05T11:43:34-05:00
-Active,L2683 NGCOA,L2683 NGCOA,L2683 NGCOA,Running,Active,2019-11-05T15:58:23-05:00
-Active,L2706 Queens,L2706 Queens,L2706 Queens,Running,Active,2019-11-06T07:14:27-05:00
-Active,L2699 ORS,L2699 ORS,L2699 ORS,Running,Active,2019-11-06T12:35:07-05:00
-Active,L2721 GRepro Heritage kitfolder,L2721 GRepro Heritage kitfolder,L2721 GRepro Heritage kitfolder,Running,Active,2019-11-06T13:47:33-05:00
-Active,L2712 DLI,L2712 DLI,L2712 DLI,Running,Active,2019-11-06T15:33:32-05:00
-Active,L2712 Letters,L2712 Letters,L2712 Letters,Running,Active,2019-11-06T18:10:33-05:00
-Active,L2727 IRCC,L2727 IRCC,L2727 IRCC,Running,Active,2019-11-07T12:51:57-05:00
-Active,L2228 Parts 4-6 Text 2pgs,L2228 Parts 4-6 Text 2pgs,L2228 Parts 4-6 Text 2pgs,Running,Active,2019-11-07T15:24:01-05:00
-Active,L2228 Part 1,L2228 Part 1,L2228 Part 1,Running,Active,2019-11-07T16:13:32-05:00
-Active,L2228 Parts 7 and 9,L2228 Parts 7 and 9,L2228 Parts 7 and 9,Running,Active,2019-11-07T18:42:05-05:00
-Active,L2228 Part 2,L2228 Part 2,L2228 Part 2,Running,Active,2019-11-07T20:22:38-05:00
-Active,L2228 Parts 3 and 8,L2228 Parts 3 and 8,L2228 Parts 3 and 8,Running,Active,2019-11-07T21:03:45-05:00
-Active,L2752 DND,L2752 DND,L2752 DND,Running,Active,2019-11-08T17:00:35-05:00
-Active,L2681 Northumberland,L2681 Northumberland,L2681 Northumberland,Running,Active,2019-11-11T09:40:51-05:00
-Active,L2229 Part1,L2229 Part1,L2229 Part1,Running,Active,2019-11-11T11:03:30-05:00
-Active,L2229 Part 7,L2229 Part 7,L2229 Part 7,Running,Active,2019-11-11T12:23:01-05:00
-Active,L2756 Raoul -Simone,L2756 Raoul -Simone,L2756 Raoul -Simone,Running,Active,2019-11-11T12:37:33-05:00
-Active,L2264 Apollo,L2264 Apollo,L2264 Apollo,Running,Active,2019-11-11T13:58:42-05:00
-Active,test cmykk coated,test cmykk coated,test cmykk coated,Running,Active,2019-11-11T14:24:24-05:00
-Active,L2229 Part 9,L2229 Part 9,L2229 Part 9,Running,Active,2019-11-11T15:05:15-05:00
-Active,L2229 Part 2,L2229 Part 2,L2229 Part 2,Running,Active,2019-11-11T16:09:36-05:00
-Active,L2229 Parts 3 and 8,L2229 Parts 3 and 8,L2229 Parts 3 and 8,Running,Active,2019-11-11T16:57:14-05:00
-Active,L2229 Parts 4-6 Text 2pgs,L2229 Parts 4-6 Text 2pgs,L2229 Parts 4-6 Text 2pgs,Running,Active,2019-11-11T17:37:29-05:00
-Active,G7 CD Nov12 2019,G7 CD Nov12 2019,G7 CD Nov12 2019,Running,Active,2019-11-12T08:23:10-05:00
-Active,L2737 CBS,L2737 CBS,L2737 CBS,Running,Active,2019-11-12T10:52:54-05:00
-Active,L2770 Ottawa Citizen,L2770 Ottawa Citizen,L2770 Ottawa Citizen,Running,Active,2019-11-12T13:28:55-05:00
-Active,L2767 DASI,L2767 DASI,L2767 DASI,Running,Active,2019-11-12T13:46:08-05:00
-Active,L2782 HoC,L2782 HoC,L2782 HoC,Running,Active,2019-11-13T10:27:24-05:00
-Active,L2757 GordonGroup,L2757 GordonGroup,L2757 GordonGroup,Running,Active,2019-11-13T17:19:07-05:00
-Active,L2779  Anishinabe,L2779  Anishinabe,L2779  Anishinabe,Running,Active,2019-11-13T18:58:23-05:00
-Active,L2758 BVM,L2758 BVM,L2758 BVM,Running,Active,2019-11-14T08:01:43-05:00
-Active,L2786 Queens env,L2786 Queens env,L2786 Queens env,Running,Active,2019-11-14T08:40:29-05:00
-Active,L2789 United Way,L2789 United Way,L2789 United Way,Running,Active,2019-11-14T09:09:17-05:00
-Active,RGB_Testing,RGB_Testing,RGB_Testing,Running,Active,2019-11-14T09:38:17-05:00
-Active,L2790 United Way,L2790 United Way,L2790 United Way,Running,Active,2019-11-14T11:03:14-05:00
-Active,L2791 United Way,L2791 United Way,L2791 United Way,Running,Active,2019-11-14T11:03:59-05:00
-Active,L2795 United Way,L2795 United Way,L2795 United Way,Running,Active,2019-11-14T13:02:45-05:00
-Active,L2739 nineSixteen,L2739 nineSixteen,L2739 nineSixteen,Running,Active,2019-11-14T13:33:25-05:00
-Active,L2799 Repro Queens,L2799 Repro Queens,L2799 Repro Queens,Running,Active,2019-11-14T18:59:48-05:00
-Active,L2802 CJL,L2802 CJL,L2802 CJL,Running,Active,2019-11-14T19:50:25-05:00
-Active,L2800 DAS,L2800 DAS,L2800 DAS,Running,Active,2019-11-14T20:34:09-05:00
-Active,L2794 United Way,L2794 United Way,L2794 United Way,Running,Active,2019-11-15T08:13:11-05:00
-Active,L2805 HoC,L2805 HoC,L2805 HoC,Running,Active,2019-11-15T10:09:20-05:00
-Active,L2806 Cover,L2806 Cover,L2806 Cover,Running,Active,2019-11-15T11:34:05-05:00
-Active,L2806 Text,L2806 Text,L2806 Text,Running,Active,2019-11-15T11:38:12-05:00
-Active,L2774 Transport Canada,L2774 Transport Canada,L2774 Transport Canada,Running,Active,2019-11-15T14:10:19-05:00
-Active,L2807 GGLS,L2807 GGLS,L2807 GGLS,Running,Active,2019-11-15T14:45:07-05:00
-Active,L2738 DAS,L2738 DAS,L2738 DAS,Running,Active,2019-11-18T09:26:15-05:00
-Active,L2813 DAS AG brochure,L2813 DAS AG brochure,L2813 DAS AG brochure,Running,Active,2019-11-18T13:33:55-05:00
-Active,L2814 St Lawrence kf,L2814 St Lawrence kf,L2814 St Lawrence kf,Running,Active,2019-11-18T14:23:43-05:00
-Active,L2815 DAS,L2815 DAS,L2815 DAS,Running,Active,2019-11-18T15:39:56-05:00
-Active,L2816 Modern Niagara,L2816 Modern Niagara,L2816 Modern Niagara,Running,Active,2019-11-18T16:50:23-05:00
-Active,L2826 Drive Magazine,L2826 Drive Magazine,L2826 Drive Magazine,Running,Active,2019-11-19T12:36:09-05:00
-Active,FloorPlan,FloorPlan,FloorPlan,Running,Active,2019-11-20T09:23:13-05:00
-Active,L2818 CPS,L2818 CPS,L2818 CPS,Running,Active,2019-11-20T10:48:12-05:00
-Active,MicaTesting,MicaTesting,MicaTesting,Running,Active,2019-11-20T10:56:07-05:00
+EndTime,StatusDetails,Status,JobID,Activation,SubmissionTime,DescriptiveName,QueueEntryID
+,Active,Running,L2811 GGLS CMC,Active,2014-09-18T18:46:52-04:00,L2811 GGLS CMC,L2811 GGLS CMC
+,Active,Running,L2440 CBSA Text,Active,2016-03-25T10:15:09-04:00,L2440 CBSA Text,L2440 CBSA Text
+,Active,Running,L2733 PWGSC Covers,Active,2016-09-29T11:32:35-04:00,L2733 PWGSC Covers,L2733 PWGSC Covers
+,Active,Running,L2493 DLI,Active,2016-11-12T10:47:32-05:00,L2493 DLI,L2493 DLI
+,Active,Running,L2717 Text,Active,2016-12-12T11:34:05-05:00,L2717 Text,L2717 Text
+,Active,Running,L2717 Tabs,Active,2016-12-12T12:06:49-05:00,L2717 Tabs,L2717 Tabs
+,Active,Running,L2717 Checklist,Active,2016-12-12T12:15:11-05:00,L2717 Checklist,L2717 Checklist
+,Active,Running,L2717 Cover,Active,2016-12-12T14:02:23-05:00,L2717 Cover,L2717 Cover
+,Active,Running,L2530 English Text,Active,2017-03-14T15:21:36-04:00,L2530 English Text,L2530 English Text
+,Active,Running,L2530 French Text,Active,2017-03-14T15:22:20-04:00,L2530 French Text,L2530 French Text
+,Active,Running,L2530 Covers,Active,2017-03-14T15:28:32-04:00,L2530 Covers,L2530 Covers
+,Active,Running,L0908 CDIC LH,Active,2017-04-27T13:10:59-04:00,L0908 CDIC LH,L0908 CDIC LH
+,Active,Running,L0910 CDIC Cheque,Active,2017-04-28T20:20:13-04:00,L0910 CDIC Cheque,L0910 CDIC Cheque
+,Active,Running,L2775 Barrhaven Opto,Active,2017-06-05T13:15:10-04:00,L2775 Barrhaven Opto,L2775 Barrhaven Opto
+,Active,Running,L2719 GGLS Lowes,Active,2017-06-07T10:46:08-04:00,L2719 GGLS Lowes,L2719 GGLS Lowes
+,Active,Running,L2778 Ross Video,Active,2017-06-19T18:10:13-04:00,L2778 Ross Video,L2778 Ross Video
+,Active,Running,L2715 GGLS Lowes,Active,2017-07-11T18:20:12-04:00,L2715 GGLS Lowes,L2715 GGLS Lowes
+,Active,Running,L2792 Bank Can,Active,2017-09-20T09:29:07-04:00,L2792 Bank Can,L2792 Bank Can
+,Active,Running,L2772 GGLS Lowes,Active,2017-09-21T16:21:54-04:00,L2772 GGLS Lowes,L2772 GGLS Lowes
+,Active,Running,L2603 Ott Cit Farm Boy,Active,2017-10-31T19:05:16-04:00,L2603 Ott Cit Farm Boy,L2603 Ott Cit Farm Boy
+,Active,Running,L2603 perfs plates,Active,2017-10-31T19:31:31-04:00,L2603 perfs plates,L2603 perfs plates
+,Active,Running,test Todd,Active,2017-12-29T13:43:24-05:00,test Todd,test Todd
+,Active,Running,test,Active,2018-02-01T11:38:58-05:00,test,test
+,Active,Running,claude test image,Active,2018-02-20T09:34:36-05:00,claude test image,claude test image
+,Active,Running,todd test,Active,2018-02-21T12:25:36-05:00,todd test,todd test
+,Active,Running,L2645 Oueis,Active,2018-02-27T08:39:53-05:00,L2645 Oueis,L2645 Oueis
+,Active,Running,L2804 CATSA,Active,2018-05-09T11:56:54-04:00,L2804 CATSA,L2804 CATSA
+,Modified,Running,manual creep K1264,Active,2018-05-09T15:15:40-04:00,manual creep K1264,manual creep K1264
+,Active,Running,test trap,Active,2018-06-26T09:09:16-04:00,test trap,test trap
+,Active,Running,K1981 SSB 85names,Active,2018-07-30T14:33:41-04:00,K1981 SSB 85names,K1981 SSB 85names
+,Active,Running,test spot,Active,2018-08-01T09:19:44-04:00,test spot,test spot
+,Active,Running,K2057 Test OP,Active,2018-08-15T17:04:53-04:00,K2057 Test OP,K2057 Test OP
+,Active,Running,Preflight_Test,Active,2018-08-23T15:14:27-04:00,Preflight_Test,Preflight_Test
+,Active,Running,K OP,Active,2018-10-12T09:57:52-04:00,K OP,K OP
+,Active,Running,L2703 OttHosp cover,Active,2018-10-23T11:51:30-04:00,L2703 OttHosp cover,L2703 OttHosp cover
+,Active,Running,L2703 OttHosp text,Active,2018-10-23T11:51:30-04:00,L2703 OttHosp text,L2703 OttHosp text
+,Active,Running,Heidi 1 blank bump,Active,2018-11-01T10:54:38-04:00,Heidi 1 blank bump,Heidi 1 blank bump
+,Active,Running,L2611 Anishinabe,Active,2018-11-09T10:45:06-05:00,L2611 Anishinabe,L2611 Anishinabe
+,Active,Running,L2746 DLI,Active,2018-11-13T15:13:08-05:00,L2746 DLI,L2746 DLI
+,Active,Running,L2817 IPM,Active,2018-11-14T08:59:29-05:00,L2817 IPM,L2817 IPM
+,Active,Running,L2745 GGLS,Active,2018-11-14T18:52:22-05:00,L2745 GGLS,L2745 GGLS
+,Active,Running,L2785 DLI,Active,2018-11-16T20:34:04-05:00,L2785 DLI,L2785 DLI
+,Active,Running,L2743 Repro,Active,2018-11-20T11:29:00-05:00,L2743 Repro,L2743 Repro
+,Active,Running,L2744 GPS,Active,2018-11-26T13:16:52-05:00,L2744 GPS,L2744 GPS
+,Active,Running,L2972 GPS,Active,2018-11-26T13:16:52-05:00,K2972 GPS,L2972 GPS
+,Active,Running,L2764 GGLS STM covers,Active,2018-12-20T19:22:20-05:00,L2764 GGLS STM covers,L2764 GGLS STM covers
+,Active,Running,L2764 GGLS STM eng text,Active,2018-12-20T19:56:50-05:00,L2764 GGLS STM eng text,L2764 GGLS STM eng text
+,Active,Running,L2764 GGLS STM fre text,Active,2018-12-20T20:16:58-05:00,L2764 GGLS STM fre text,L2764 GGLS STM fre text
+,Active,Running,INK_USAGE,Active,2019-01-03T14:31:37-05:00,INK_USAGE,INK_USAGE
+,Active,Running,Impo Test,Active,2019-01-03T16:51:53-05:00,Impo Test,Impo Test
+,Active,Running,2.0_test,Active,2019-01-08T14:22:44-05:00,2.0_test,2.0_test
+,Active,Running,L2803 CanScientific,Active,2019-01-23T12:43:42-05:00,L2803 CanScientific,L2803 CanScientific
+,Active,Running,L2587 Alphabet Covers,Active,2019-01-31T20:55:57-05:00,L2587 Alphabet Covers,L2587 Alphabet Covers
+,Active,Running,L2587 Alphabet Text,Active,2019-02-12T11:11:46-05:00,L2587 Alphabet Text,L2587 Alphabet Text
+,Active,Running,L2236 GGLS Text,Active,2019-02-21T15:34:15-05:00,L2236 GGLS Text,L2236 GGLS Text
+,Active,Running,Press Test May 6-2019 Synthetic,Active,2019-02-27T10:27:52-05:00,Press Test May 6-2019 Synthetic,Press Test May 6-2019 Synthetic
+,Active,Running,test fonts,Active,2019-03-19T12:49:17-04:00,test fonts,test fonts
+,Active,Running,L0783 GGLS IHSA,Active,2019-04-05T08:45:10-04:00,L0783 GGLS IHSA,L0783 GGLS IHSA
+,Active,Running,L2716 GGLS Lowes,Active,2019-05-16T09:21:00-04:00,L2716 GGLS Lowes,L2716 GGLS Lowes
+,Active,Running,L2755 SOG,Active,2019-05-27T14:42:40-04:00,L2755 SOG,L2755 SOG
+,Active,Running,test 320 ink,Active,2019-06-05T14:25:44-04:00,test 320 ink,test 320 ink
+,Active,Running,4c,Active,2019-06-06T12:05:03-04:00,4c,4c
+,Active,Running,cover-test,Active,2019-06-10T16:23:37-04:00,cover-test,cover-test
+,Active,Running,PREFLIGHT,Active,2019-06-13T12:36:42-04:00,PREFLIGHT,PREFLIGHT
+,Active,Running,test marks,Active,2019-07-09T11:37:04-04:00,test marks,test marks
+,Active,Running,L2740 DLI-STO,Active,2019-07-24T11:51:56-04:00,L2740 DLI-STO,L2740 DLI-STO
+,Active,Running,L1923 TIP,Active,2019-08-16T11:46:41-04:00,L1923 TIP,L1923 TIP
+,Active,Running,test 2 spot,Active,2019-08-26T15:37:50-04:00,test 2 spot,test 2 spot
+,Active,Running,L2022 Xerox,Active,2019-08-27T14:35:35-04:00,L2022 Xerox,L2022 Xerox
+,Active,Running,L2717 Pocket Card,Active,2019-08-30T16:20:34-04:00,L2717 Pocket Card,L2717 Pocket Card
+,Active,Running,L2081 BMR Carleton U,Active,2019-09-04T12:48:07-04:00,L2081 BMR Carleton U,L2081 BMR Carleton U
+,Active,Running,L2202 V1 Text,Active,2019-09-13T16:49:52-04:00,L2202 V1 Text,L2202 V1 Text
+,Active,Running,L2202 V2 Text Goldenrod,Active,2019-09-13T16:51:57-04:00,L2202 V2 Text Goldenrod,L2202 V2 Text Goldenrod
+,Active,Running,L2202 V2 Text Blue,Active,2019-09-13T17:45:53-04:00,L2202 V2 Text Blue,L2202 V2 Text Blue
+,Active,Running,L2202 Tip Ons Parts 4-6,Active,2019-09-13T18:30:29-04:00,L2202 Tip Ons Parts 4-6,L2202 Tip Ons Parts 4-6
+,Active,Running,L2736 Conf Bd kf,Active,2019-09-20T17:43:18-04:00,L2736 Conf Bd kf,L2736 Conf Bd kf
+,Active,Running,L2339 Vol 2 Text,Active,2019-09-27T18:11:08-04:00,L2339 Vol 2 Text,L2339 Vol 2 Text
+,Active,Running,L2335 Vol 1 Text,Active,2019-09-27T18:32:56-04:00,L2335 Vol 1 Text,L2335 Vol 1 Text
+,Active,Running,L2343 Vol 3 Text,Active,2019-09-27T19:02:57-04:00,L2343 Vol 3 Text,L2343 Vol 3 Text
+,Active,Running,L2346 Pillar5,Active,2019-09-30T14:07:21-04:00,L2346 Pillar5,L2346 Pillar5
+,Active,Running,L2365 Queens,Active,2019-10-01T10:55:02-04:00,L2365 Queens,L2365 Queens
+,Active,Running,L2358 Vol 7 Text,Active,2019-10-01T19:37:14-04:00,L2358 Vol 7 Text,L2358 Vol 7 Text
+,Active,Running,L2349 Vol 4 Text,Active,2019-10-02T08:45:12-04:00,L2349 Vol 4 Text,L2349 Vol 4 Text
+,Active,Running,L2354 Fisheries,Active,2019-10-02T09:15:10-04:00,L2354 Fisheries,L2354 Fisheries
+,Active,Running,L2355 Vol 6 Text,Active,2019-10-02T12:36:15-04:00,L2355 Vol 6 Text,L2355 Vol 6 Text
+,Active,Running,L2402 Text,Active,2019-10-03T16:13:21-04:00,L2402 Text,L2402 Text
+,Active,Running,L2459 Ideal Roofing,Active,2019-10-10T13:53:21-04:00,L2459 Ideal Roofing,L2459 Ideal Roofing
+,Active,Running,L2467 Tabs,Active,2019-10-11T17:41:16-04:00,L2467 Tabs,L2467 Tabs
+,Active,Running,L2467 Cover,Active,2019-10-11T18:30:02-04:00,L2467 Cover,L2467 Cover
+,Active,Running,L2467 Text,Active,2019-10-11T18:54:03-04:00,L2467 Text,L2467 Text
+,Active,Running,L2525 Cover,Active,2019-10-18T15:15:24-04:00,L2525 Cover,L2525 Cover
+,Active,Running,L2525 Text,Active,2019-10-18T15:21:09-04:00,L2525 Text,L2525 Text
+,Active,Running,L2525 Poster,Active,2019-10-18T17:34:22-04:00,L2525 Poster,L2525 Poster
+,Active,Running,L2357 Cdn Blood,Active,2019-10-22T11:39:51-04:00,L2357 Cdn Blood,L2357 Cdn Blood
+,Active,Running,todd test combo,Active,2019-10-22T13:54:29-04:00,todd test combo,todd test combo
+,Active,Running,L2725 Alphabet,Active,2019-10-23T17:36:02-04:00,L2725 Alphabet,L2725 Alphabet
+,Active,Running,test cmyk line weight,Active,2019-10-24T09:03:36-04:00,test cmyk line weight,test cmyk line weight
+,Active,Running,L2581 GGLS STM,Active,2019-10-24T09:29:13-04:00,L2581 GGLS STM,L2581 GGLS STM
+,Active,Running,L2568 TF Targets,Active,2019-10-25T09:48:20-04:00,L2568 TF Targets,L2568 TF Targets
+,Active,Running,L2602 GGLS IHSA bc,Active,2019-10-25T12:00:08-04:00,L2602 GGLS IHSA bc,L2602 GGLS IHSA bc
+,Active,Running,L2610 Falun Dafa,Active,2019-10-25T13:54:32-04:00,L2610 Falun Dafa,L2610 Falun Dafa
+,Active,Running,L2598 GDC,Active,2019-10-26T10:26:16-04:00,L2598 GDC,L2598 GDC
+,Active,Running,L2624 IPM,Active,2019-10-28T17:22:50-04:00,L2624 IPM,L2624 IPM
+,Active,Running,test grey line weight,Active,2019-10-29T09:23:35-04:00,test grey line weight,test grey line weight
+,Active,Running,L2628 Queens,Active,2019-10-29T09:57:17-04:00,L2628 Queens,L2628 Queens
+,Active,Running,L2633 GGLS - KF,Active,2019-10-29T10:16:27-04:00,L2633 GGLS - KF,L2633 GGLS - KF
+,Active,Running,L2636 CSE,Active,2019-10-29T13:09:16-04:00,L2636 CSE,L2636 CSE
+,Active,Running,L2634 LACan cover,Active,2019-10-29T14:16:40-04:00,L2634 LACan cover,L2634 LACan cover
+,Active,Running,L2634 LACan text,Active,2019-10-29T14:18:26-04:00,L2634 LACan text,L2634 LACan text
+,Active,Running,L2651 DLI-CWF,Active,2019-10-30T13:11:01-04:00,L2651 DLI-CWF,L2651 DLI-CWF
+,Active,Running,L2639 Ottawa Citizen,Active,2019-10-30T18:15:19-04:00,L2639 Ottawa Citizen,L2639 Ottawa Citizen
+,Active,Running,L2647 GRepro - Fall,Active,2019-10-31T09:16:30-04:00,L2647 GRepro - Fall,L2647 GRepro - Fall
+,Active,Running,L2661 Queens,Active,2019-10-31T11:06:10-04:00,L2661 Queens,L2661 Queens
+,Active,Running,L2654 cover,Active,2019-10-31T11:43:45-04:00,L2654 cover,L2654 cover
+,Active,Running,L2654 text,Active,2019-10-31T11:44:21-04:00,L2654 text,L2654 text
+,Active,Running,L2663 IPM,Active,2019-10-31T14:12:12-04:00,L2663 IPM,L2663 IPM
+,Active,Running,L2668 Repro,Active,2019-11-01T08:25:39-04:00,L2668 Repro,L2668 Repro
+,Active,Running,L2674 Covers,Active,2019-11-01T13:40:23-04:00,L2674 Covers,L2674 Covers
+,Active,Running,L2674 Briefs,Active,2019-11-01T13:49:28-04:00,L2674 Briefs,L2674 Briefs
+,Active,Running,L2674 French Text,Active,2019-11-01T13:56:56-04:00,L2674 French Text,L2674 French Text
+,Active,Running,L2674 English Text,Active,2019-11-01T14:09:01-04:00,L2674 English Text,L2674 English Text
+,Active,Running,L2672 Item 1,Active,2019-11-01T15:58:41-04:00,L2672 Item 1,L2672 Item 1
+,Active,Running,L2672 Item 2,Active,2019-11-01T16:03:22-04:00,L2672 Item 2,L2672 Item 2
+,Active,Running,L2679 Health Canada,Active,2019-11-04T08:35:13-05:00,L2679 Health Canada,L2679 Health Canada
+,Active,Running,L2693 Wow Tech,Active,2019-11-04T13:10:01-05:00,L2693 Wow Tech,L2693 Wow Tech
+,Active,Running,cmyk uncoated,Active,2019-11-05T09:45:57-05:00,cmyk uncoated,cmyk uncoated
+,Active,Running,L2682 NGCOA,Active,2019-11-05T11:43:34-05:00,L2682 NGCOA,L2682 NGCOA
+,Active,Running,L2683 NGCOA,Active,2019-11-05T15:58:23-05:00,L2683 NGCOA,L2683 NGCOA
+,Active,Running,L2706 Queens,Active,2019-11-06T07:14:27-05:00,L2706 Queens,L2706 Queens
+,Active,Running,L2699 ORS,Active,2019-11-06T12:35:07-05:00,L2699 ORS,L2699 ORS
+,Active,Running,L2721 GRepro Heritage kitfolder,Active,2019-11-06T13:47:33-05:00,L2721 GRepro Heritage kitfolder,L2721 GRepro Heritage kitfolder
+,Active,Running,L2712 DLI,Active,2019-11-06T15:33:32-05:00,L2712 DLI,L2712 DLI
+,Active,Running,L2712 Letters,Active,2019-11-06T18:10:33-05:00,L2712 Letters,L2712 Letters
+,Active,Running,L2727 IRCC,Active,2019-11-07T12:51:57-05:00,L2727 IRCC,L2727 IRCC
+,Active,Running,L2228 Parts 4-6 Text 2pgs,Active,2019-11-07T15:24:01-05:00,L2228 Parts 4-6 Text 2pgs,L2228 Parts 4-6 Text 2pgs
+,Active,Running,L2228 Part 1,Active,2019-11-07T16:13:32-05:00,L2228 Part 1,L2228 Part 1
+,Active,Running,L2228 Parts 7 and 9,Active,2019-11-07T18:42:05-05:00,L2228 Parts 7 and 9,L2228 Parts 7 and 9
+,Active,Running,L2228 Part 2,Active,2019-11-07T20:22:38-05:00,L2228 Part 2,L2228 Part 2
+,Active,Running,L2228 Parts 3 and 8,Active,2019-11-07T21:03:45-05:00,L2228 Parts 3 and 8,L2228 Parts 3 and 8
+,Active,Running,L2752 DND,Active,2019-11-08T17:00:35-05:00,L2752 DND,L2752 DND
+,Active,Running,L2681 Northumberland,Active,2019-11-11T09:40:51-05:00,L2681 Northumberland,L2681 Northumberland
+,Active,Running,L2229 Part1,Active,2019-11-11T11:03:30-05:00,L2229 Part1,L2229 Part1
+,Active,Running,L2229 Part 7,Active,2019-11-11T12:23:01-05:00,L2229 Part 7,L2229 Part 7
+,Active,Running,L2756 Raoul -Simone,Active,2019-11-11T12:37:33-05:00,L2756 Raoul -Simone,L2756 Raoul -Simone
+,Active,Running,L2264 Apollo,Active,2019-11-11T13:58:42-05:00,L2264 Apollo,L2264 Apollo
+,Active,Running,test cmykk coated,Active,2019-11-11T14:24:24-05:00,test cmykk coated,test cmykk coated
+,Active,Running,L2229 Part 9,Active,2019-11-11T15:05:15-05:00,L2229 Part 9,L2229 Part 9
+,Active,Running,L2229 Part 2,Active,2019-11-11T16:09:36-05:00,L2229 Part 2,L2229 Part 2
+,Active,Running,L2229 Parts 3 and 8,Active,2019-11-11T16:57:14-05:00,L2229 Parts 3 and 8,L2229 Parts 3 and 8
+,Active,Running,L2229 Parts 4-6 Text 2pgs,Active,2019-11-11T17:37:29-05:00,L2229 Parts 4-6 Text 2pgs,L2229 Parts 4-6 Text 2pgs
+,Active,Running,G7 CD Nov12 2019,Active,2019-11-12T08:23:10-05:00,G7 CD Nov12 2019,G7 CD Nov12 2019
+,Active,Running,L2737 CBS,Active,2019-11-12T10:52:54-05:00,L2737 CBS,L2737 CBS
+,Active,Running,L2770 Ottawa Citizen,Active,2019-11-12T13:28:55-05:00,L2770 Ottawa Citizen,L2770 Ottawa Citizen
+,Active,Running,L2767 DASI,Active,2019-11-12T13:46:08-05:00,L2767 DASI,L2767 DASI
+,Active,Running,L2782 HoC,Active,2019-11-13T10:27:24-05:00,L2782 HoC,L2782 HoC
+,Active,Running,L2757 GordonGroup,Active,2019-11-13T17:19:07-05:00,L2757 GordonGroup,L2757 GordonGroup
+,Active,Running,L2779  Anishinabe,Active,2019-11-13T18:58:23-05:00,L2779  Anishinabe,L2779  Anishinabe
+,Active,Running,L2758 BVM,Active,2019-11-14T08:01:43-05:00,L2758 BVM,L2758 BVM
+,Active,Running,L2786 Queens env,Active,2019-11-14T08:40:29-05:00,L2786 Queens env,L2786 Queens env
+,Active,Running,L2789 United Way,Active,2019-11-14T09:09:17-05:00,L2789 United Way,L2789 United Way
+,Active,Running,RGB_Testing,Active,2019-11-14T09:38:17-05:00,RGB_Testing,RGB_Testing
+,Active,Running,L2790 United Way,Active,2019-11-14T11:03:14-05:00,L2790 United Way,L2790 United Way
+,Active,Running,L2791 United Way,Active,2019-11-14T11:03:59-05:00,L2791 United Way,L2791 United Way
+,Active,Running,L2795 United Way,Active,2019-11-14T13:02:45-05:00,L2795 United Way,L2795 United Way
+,Active,Running,L2739 nineSixteen,Active,2019-11-14T13:33:25-05:00,L2739 nineSixteen,L2739 nineSixteen
+,Active,Running,L2799 Repro Queens,Active,2019-11-14T18:59:48-05:00,L2799 Repro Queens,L2799 Repro Queens
+,Active,Running,L2802 CJL,Active,2019-11-14T19:50:25-05:00,L2802 CJL,L2802 CJL
+,Active,Running,L2800 DAS,Active,2019-11-14T20:34:09-05:00,L2800 DAS,L2800 DAS
+,Active,Running,L2794 United Way,Active,2019-11-15T08:13:11-05:00,L2794 United Way,L2794 United Way
+,Active,Running,L2805 HoC,Active,2019-11-15T10:09:20-05:00,L2805 HoC,L2805 HoC
+,Active,Running,L2806 Cover,Active,2019-11-15T11:34:05-05:00,L2806 Cover,L2806 Cover
+,Active,Running,L2806 Text,Active,2019-11-15T11:38:12-05:00,L2806 Text,L2806 Text
+,Active,Running,L2774 Transport Canada,Active,2019-11-15T14:10:19-05:00,L2774 Transport Canada,L2774 Transport Canada
+,Active,Running,L2807 GGLS,Active,2019-11-15T14:45:07-05:00,L2807 GGLS,L2807 GGLS
+,Active,Running,L2738 DAS,Active,2019-11-18T09:26:15-05:00,L2738 DAS,L2738 DAS
+,Active,Running,L2813 DAS AG brochure,Active,2019-11-18T13:33:55-05:00,L2813 DAS AG brochure,L2813 DAS AG brochure
+,Active,Running,L2814 St Lawrence kf,Active,2019-11-18T14:23:43-05:00,L2814 St Lawrence kf,L2814 St Lawrence kf
+,Active,Running,L2815 DAS,Active,2019-11-18T15:39:56-05:00,L2815 DAS,L2815 DAS
+,Active,Running,L2816 Modern Niagara,Active,2019-11-18T16:50:23-05:00,L2816 Modern Niagara,L2816 Modern Niagara
+,Active,Running,L2826 Drive Magazine,Active,2019-11-19T12:36:09-05:00,L2826 Drive Magazine,L2826 Drive Magazine
+,Active,Running,FloorPlan,Active,2019-11-20T09:23:13-05:00,FloorPlan,FloorPlan
+,Active,Running,L2818 CPS,Active,2019-11-20T10:48:12-05:00,L2818 CPS,L2818 CPS
+,Active,Running,MicaTesting,Active,2019-11-20T10:56:07-05:00,MicaTesting,MicaTesting
+2019-11-19T08:26:08-05:00,Active,Suspended,L2777 Ross Video,Held,2012-07-25T12:41:46-04:00,L2777 Ross Video,L2777 Ross Video
+,Active,Suspended,test K2960 UofW ConSenEng,Held,2013-09-13T10:57:48-04:00,test K2960 UofW ConSenEng,test K2960 UofW ConSenEng
+,Active,Suspended,test G1548 Apollo,Held,2015-06-11T10:15:46-04:00,test G1548 Apollo,test G1548 Apollo
+,Active,Suspended,test G1560 Apollo PM selfmailer,Held,2015-06-11T13:34:44-04:00,test G1560 Apollo PM selfmailer,test G1560 Apollo PM selfmailer
+,Active,Suspended,H3251_Text_H3251_Text,Held,2016-12-12T11:34:05-05:00,H3251_Text_H3251_Text,H3251_Text_H3251_Text
+,Active,Suspended,G7_Form_CD_Nov8_2017Test,Held,2017-11-08T08:48:35-05:00,G7_Form_CD_Nov8_2017Test,G7_Form_CD_Nov8_2017Test
+2019-11-19T16:08:24-05:00,Active,Suspended,K2319 Cover,Held,2018-09-07T14:07:35-04:00,K2319 Cover,K2319 Cover
+,Active,Suspended,test L0214 CBS cards,Held,2019-01-30T12:11:45-05:00,test L0214 CBS cards,test L0214 CBS cards
+,Active,Suspended,test K2291 UofW Items 6 and 8,Held,2019-09-04T15:48:05-04:00,test K2291 UofW Items 6 and 8,test K2291 UofW Items 6 and 8
+,Active,Suspended,Copy L2271 English Text,Held,2019-09-20T19:06:18-04:00,Copy L2271 English Text,Copy L2271 English Text
+,Active,Suspended,Copy L2271 French Text,Held,2019-09-20T19:23:28-04:00,Copy L2271 French Text,Copy L2271 French Text
+,Finished,Completed,L2748 GGLS EY,Held,2013-08-06T09:14:21-04:00,L2748 GGLS EY,L2748 GGLS EY
+,Finished,Completed,L2690 GGLS EY,Held,2013-09-25T11:40:46-04:00,L2690 GGLS EY,L2690 GGLS EY
+,Finished,Completed,L2720 GGLS Lowes,Held,2017-03-29T11:09:58-04:00,L2720 GGLS Lowes,L2720 GGLS Lowes
+,Finished,Completed,L2678 GGLS EYU,Held,2017-05-09T15:13:09-04:00,L2678 GGLS EYU,L2678 GGLS EYU
+,Finished,Completed,L2766 GGLS  stm,Held,2018-04-06T20:26:10-04:00,L2766 GGLS  stm,L2766 GGLS  stm
+,Finished,Completed,L2726 DLI Home Depot,Held,2018-11-02T12:55:03-04:00,L2726 DLI Home Depot,L2726 DLI Home Depot
+,Finished,Completed,L2754 HoC,Held,2018-11-16T12:36:01-05:00,L2754 HoC,L2754 HoC
+,Finished,Completed,L2735 GGLS Nassco,Held,2018-11-28T13:23:30-05:00,L2735 GGLS Nassco,L2735 GGLS Nassco
+,Finished,Completed,L2722 Pub Safety,Held,2019-03-14T11:09:22-04:00,L2722 Pub Safety,L2722 Pub Safety
+,Finished,Completed,L2702 Spark Mark kf,Held,2019-04-24T09:08:45-04:00,L2702 Spark Mark kf,L2702 Spark Mark kf
+,Finished,Completed,L2688 GGLS-STM,Held,2019-05-08T12:26:46-04:00,L2688 GGLS-STM,L2688 GGLS-STM
+,Finished,Completed,L2709 United Way Posters,Held,2019-07-19T14:01:00-04:00,L2709 United Way Posters,L2709 United Way Posters
+,Finished,Completed,L2724 MHCC,Held,2019-09-18T08:15:14-04:00,L2724 MHCC,L2724 MHCC
+,Finished,Completed,L2662 DLI,Held,2019-10-31T10:44:33-04:00,L2662 DLI,L2662 DLI
+,Finished,Completed,L2680 Queens,Held,2019-11-04T10:42:04-05:00,L2680 Queens,L2680 Queens
+,Finished,Completed,L2694 Falun Dafa,Held,2019-11-04T14:24:09-05:00,L2694 Falun Dafa,L2694 Falun Dafa
+,Finished,Completed,L2692 Queens,Held,2019-11-04T15:34:07-05:00,L2692 Queens,L2692 Queens
+,Finished,Completed,L2698 DLI-Odyssee,Held,2019-11-04T16:55:22-05:00,L2698 DLI-Odyssee,L2698 DLI-Odyssee
+,Finished,Completed,L2691 Artopix,Held,2019-11-04T19:30:14-05:00,L2691 Artopix,L2691 Artopix
+,Finished,Completed,L2711 Apollo APS,Held,2019-11-05T19:11:38-05:00,L2711 Apollo APS,L2711 Apollo APS
+,Finished,Completed,L2705 Cover,Held,2019-11-06T08:19:16-05:00,L2705 Cover,L2705 Cover
+,Finished,Completed,L2705 Text,Held,2019-11-06T08:25:04-05:00,L2705 Text,L2705 Text
+,Finished,Completed,L2707 DLI-CAA,Held,2019-11-06T11:12:06-05:00,L2707 DLI-CAA,L2707 DLI-CAA
+,Finished,Completed,L2708 Good Works,Held,2019-11-06T11:12:21-05:00,L2708 Good Works,L2708 Good Works
+,Finished,Completed,L2718 IPM,Held,2019-11-07T09:52:54-05:00,L2718 IPM,L2718 IPM
+,Finished,Completed,L2742 Apollo APS,Held,2019-11-08T08:36:27-05:00,L2742 Apollo APS,L2742 Apollo APS
+,Finished,Completed,L2741 Apollo APS,Held,2019-11-08T09:05:16-05:00,L2741 Apollo APS,L2741 Apollo APS
+,Finished,Completed,L2747 Apollo APS,Held,2019-11-08T13:20:41-05:00,L2747 Apollo APS,L2747 Apollo APS
