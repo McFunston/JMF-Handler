@@ -6,11 +6,15 @@ import xml.etree.ElementTree as et
 import sys
 import csv
 
-def ListJobs(JMF, CSV):
+def GetQueue(JMF):
     tree = et.parse(JMF)
     root = tree.getroot()
     
-    Queue = root.findall('{http://www.CIP4.org/JDFSchema_1_1}Response/{http://www.CIP4.org/JDFSchema_1_1}Queue/{http://www.CIP4.org/JDFSchema_1_1}QueueEntry')
+    return root.findall('{http://www.CIP4.org/JDFSchema_1_1}Response/{http://www.CIP4.org/JDFSchema_1_1}Queue/{http://www.CIP4.org/JDFSchema_1_1}QueueEntry')
+
+def JMFQueueToCSV(JMF, CSV):
+    # Converts a JMF 'QueueStatus' response to a CSV file - The CSV columns will be in random order since it converts from a dictionary
+    Queue = GetQueue(JMF)
     
     with open(CSV, 'w', newline='') as csvfile:
         all_keys = set().union(*(d.keys() for d in Queue)) #get all possible keys
@@ -19,11 +23,7 @@ def ListJobs(JMF, CSV):
         for QueueEntry in Queue:
             writer.writerow(QueueEntry.attrib)
 
-
-
-    print('test')
-
-ListJobs("TestData/Jobs.JMF", "jobs.csv")
+JMFQueueToCSV("TestData/Jobs.JMF", "jobs.csv")
 
 """ if __name__ == "__main__":
     if len(sys.argv) != 4:
