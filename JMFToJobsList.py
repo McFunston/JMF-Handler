@@ -7,6 +7,7 @@ import sys
 import csv
 
 def GetQueue(JMF):
+    #Returns a dictionary of QueueEntry(s) from a 'QueueStatus' response
     tree = et.parse(JMF)
     root = tree.getroot()
     
