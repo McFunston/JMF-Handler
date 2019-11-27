@@ -53,7 +53,8 @@ def JMFQueueToJobList(tree):
     queueJobList = list()
     Queue = GetQueue(tree)
     for QueueEntry in Queue:
-        queueJobList.append(QueueEntry.attrib['QueueEntryID'])
+        if QueueEntry.attrib['StatusDetails'] != 'Finished':
+            queueJobList.append(QueueEntry.attrib['QueueEntryID'])
     return queueJobList
 
 # def GetJMFCommand(JMF):
@@ -115,7 +116,7 @@ def FinishJob(url, path):
 # FinishJob('http://kansw286:8889/jmfportal?','/Volumes/WIP2/To_Archive')
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
+    if len(sys.argv) != 3:
         print("Arguments 'url', 'path' required")
     else:
         FinishJob(sys.argv[1], sys.argv[2])
