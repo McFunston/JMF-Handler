@@ -5,7 +5,7 @@
 import xml.etree.ElementTree as et
 import sys
 import csv
-import pip._vendor.requests as requests
+import requests
 from os import listdir
 from os.path import isfile, isdir, join
 
