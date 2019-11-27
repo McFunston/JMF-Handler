@@ -112,7 +112,7 @@ def FinishJob(url, path):
             if archive in j:
                 CloseJob(j)
 
-FinishJob('http://kansw286:8889/jmfportal?','/Volumes/WIP2/To_Archive')
+# FinishJob('http://kansw286:8889/jmfportal?','/Volumes/WIP2/To_Archive')
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
